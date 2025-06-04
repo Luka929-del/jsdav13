@@ -8,7 +8,7 @@ switch(firstquestion) {
         if(answer == 'number' || answer == 'NUMBER' || answer == 'NumBeR'){
             alert('პასუხი სწორია');
         } else {
-            alert('სამწუხაროდ ვერ გამოიცანით')
+            alert('სამწუხაროდ ვერ გამოიცანით');
         }
         break;
     case 2:
@@ -17,7 +17,7 @@ switch(firstquestion) {
         if(answer == 'Yes' || answer == 'yes' || answer == 'YeS'){
             alert('პასუხი სწორია');
         } else {
-            alert('სამწუხაროდ ვერ გამოიცანით')
+            alert('სამწუხაროდ ვერ გამოიცანით');
         }
         break;
      case 3:
@@ -26,7 +26,7 @@ switch(firstquestion) {
         if(answer == 'ori' || answer == 'ORI' || answer == 'oRi'){
             alert('პასუხი სწორია');
         } else {
-            alert('სამწუხაროდ ვერ გამოიცანით')
+            alert('სამწუხაროდ ვერ გამოიცანით');
         }
         break;
 }
